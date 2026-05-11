@@ -1,0 +1,17 @@
+@charset "UT-8";
+
+:root{
+    --cor0:#9CAEB2;
+    --cor1:#2168A6; /* links*/
+    --cor2:#A06054; 
+    --cor3:#C7918F;
+    --cor4:#5A463B;
+    --cor5:#2C424F;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+html, body{
+    background-color: #cde7ee67;
+}
