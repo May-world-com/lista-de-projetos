@@ -14,4 +14,35 @@
 }
 html, body{
     background-color: #cde7ee67;
+    height: 100vh;
+    width: 100vw;
+}
+
+header{
+    background-color: #A06054;
+}
+header h1{
+    text-align: center;
+    font-size: 2em;
+}
+header > img{
+    border-radius: 50%;
+}
+div#links{
+    background-color: #91564b;
+    padding: 10px;
+}
+div > a{
+    color: #1a272e;
+    text-decoration: none;
+
+}
+div > a:hover{
+    text-decoration: underline;
+}
+section{
+    font-size: 1em;
+    height: 500px;
+    width: 300px;
+    margin: auto;
 }
